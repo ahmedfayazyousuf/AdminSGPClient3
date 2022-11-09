@@ -1,0 +1,19 @@
+body{
+    background-image: url("wallpapes.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: 0.9;
+    background-attachment: fixed;
+}
+h5 {
+    color: white;
+}
+label {
+    color: white;
+}
+td {
+    color: white;
+}
+tr {
+    color: white;
+}
